@@ -1,0 +1,17 @@
+# Compiled C binaries (no file extension)
+fork_exec
+pthreads_demo
+cpu_sched
+prod_cons
+readers_writers
+dining_phil
+bankers
+mem_alloc
+page_replace
+disk_sched
+file_alloc
+
+# Object files / debug files
+*.o
+*.out
+*.exe
